@@ -21,3 +21,15 @@ function loadData(url) {
 function pintasMisHobbies(json) {
     console.log(json)
 }
+
+let edad = 30
+let soltero = true
+let zero = null
+let incognita
+
+let ficha = {
+    nombre: 'Mi nombre',
+    edad: 30,
+    soltero: true
+}
+
