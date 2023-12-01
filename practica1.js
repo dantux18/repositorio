@@ -1,0 +1,1 @@
+let secundaria = 50
